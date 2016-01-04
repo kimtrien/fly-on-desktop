@@ -2,4 +2,4 @@
 
 Have fun!
 
-[http://kjmtrue.github.io/fly-on-desktop/](Demo)
+**Demo:** [http://kjmtrue.github.io/fly-on-desktop/](http://kjmtrue.github.io/fly-on-desktop)
